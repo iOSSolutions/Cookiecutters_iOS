@@ -1,0 +1,8 @@
+{
+    	"project_name": "Type a Name",
+    	"company_name": "rapidbizapps",
+    	"bundle_identifier": "com.{{ cookiecutter.company_name | replace(' ', '-') | lower }}.{{ cookiecutter.project_name | replace(' ', '-') | lower }}",
+    	"developer_name": "Your Name",
+	"today_date":"Enter today date",
+	"class_prefix": "Enter a class prefix"
+}
